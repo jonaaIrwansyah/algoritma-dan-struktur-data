@@ -1,5 +1,3 @@
-# Nama : jona irwansyah
-# Nim : D0425006
 from tkinter import *
 import random
 
@@ -143,3 +141,4 @@ create_cells()
 
 #creating mainloop for the window
 window.mainloop()
+
